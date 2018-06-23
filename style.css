@@ -1,0 +1,126 @@
+body{
+    background-color: #dddddd;
+}
+
+
+
+
+h1{
+    color:#4aaaa5;
+}
+
+.container3{
+
+    background-color: white;
+}
+
+.name{
+
+    
+    font-size: 20px;
+    background-color: #4aaaa5; 
+    text-align: center;
+    padding: 20px;
+    font-family: 'Georgia', 'Times New Roman', Times, serif, serif;
+    font-size: x-large;
+    font-weight: bold;
+    color: white;
+    
+    
+}
+
+
+
+
+
+.column {
+    float: left;
+    width: 40%;
+    padding: 20px 50px 20px 40px;
+    position: relative; 
+    margin-bottom: 60px; 
+  }
+
+
+.navbar{
+
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin: 0%;
+    color: #777777;
+    background-color: white;
+    
+    
+    
+    
+}
+
+
+
+
+p{
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+
+
+.bg{
+    background-color: #dddddd;
+   
+}
+
+.content{
+
+    background-color: white;
+    padding-bottom: 15px;
+    
+}
+
+
+.container-fluid
+{
+    background-color:#dddddd ;
+    
+    
+}
+
+
+
+.container-2{
+    background-color: white;
+    
+}
+.col-md-4{
+
+background-color:#dddddd;
+}
+
+
+
+.navbar-nav{
+    font:#777777;   
+}
+
+.card-img-overlay{
+    color:#4aaaa5;
+}
+
+.footer {
+    position: fixed; 
+    text-align: center; 
+    width: 110%; 
+    padding-top: 10px; 
+    padding-bottom: 10px;
+    background-color: #666666; 
+    border-top: 10px solid #4aaaa5;
+    left: 0; 
+    bottom: 0; 
+    color: white; 
+    margin-left: -50px; 
+}
+
+.aboutme{
+    background-color: white;
+    padding-bottom: 15px;
+}
